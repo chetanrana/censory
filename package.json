@@ -1,0 +1,11 @@
+{
+	"author" : "Chetan",
+	"name" : "censorify",
+	"version" : "0.1.0",
+	"description" : "Censors word out of text",
+	"main" : "censortext",
+	"dependencies" : {},
+	"engines" : {
+		"node" : "*"
+	}
+}
